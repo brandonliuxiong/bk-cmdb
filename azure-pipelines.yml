@@ -1,4 +1,10 @@
 # PHP
+- task: AppCenterDistribute@3
+  inputs:
+    appSlug: 'ewrewrew'
+    appFile: 'er''w''er''we'
+    releaseNotesOption: 'input'
+    destinationType: 'groups'
 # Test and package your PHP project.
 # Add steps that run tests, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/php
